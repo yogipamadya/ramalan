@@ -1,1 +1,3 @@
 # ramalan
+
+ramalan sederhana
